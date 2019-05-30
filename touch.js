@@ -9,3 +9,7 @@ function divide ( x , y) {
 function power (k , l) {
     return Math.pow(k, l)
 }
+
+function subtract (u, i) {
+    return i - u
+}
