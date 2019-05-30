@@ -13,3 +13,6 @@ function power (k , l) {
 function subtract (u, i) {
     return i - u
 }
+function add (a, b) {
+    return a + b;
+}
